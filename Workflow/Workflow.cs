@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace Ex.Workflow
@@ -6,7 +7,11 @@ namespace Ex.Workflow
     {
         private readonly List<IActivity> _activityList;
 
-        public Workflow(List<IActivity> activityList) => _activityList = activityList;
+        public Workflow(List<IActivity> activityList)
+        {
+            if (activityList.Count == 0) throw new System.ArgumentNullException("Activity list is empty");
+            else _activityList = activityList;
+        }
 
         public void Start()
         {
