@@ -1,0 +1,13 @@
+/home/killianfrappart/Dev/CSharp/csharp-oop-4/bin/Debug/netcoreapp3.1/csharp-oop-4
+/home/killianfrappart/Dev/CSharp/csharp-oop-4/bin/Debug/netcoreapp3.1/csharp-oop-4.deps.json
+/home/killianfrappart/Dev/CSharp/csharp-oop-4/bin/Debug/netcoreapp3.1/csharp-oop-4.runtimeconfig.json
+/home/killianfrappart/Dev/CSharp/csharp-oop-4/bin/Debug/netcoreapp3.1/csharp-oop-4.runtimeconfig.dev.json
+/home/killianfrappart/Dev/CSharp/csharp-oop-4/bin/Debug/netcoreapp3.1/csharp-oop-4.dll
+/home/killianfrappart/Dev/CSharp/csharp-oop-4/bin/Debug/netcoreapp3.1/csharp-oop-4.pdb
+/home/killianfrappart/Dev/CSharp/csharp-oop-4/obj/Debug/netcoreapp3.1/csharp-oop-4.csprojAssemblyReference.cache
+/home/killianfrappart/Dev/CSharp/csharp-oop-4/obj/Debug/netcoreapp3.1/csharp-oop-4.AssemblyInfoInputs.cache
+/home/killianfrappart/Dev/CSharp/csharp-oop-4/obj/Debug/netcoreapp3.1/csharp-oop-4.AssemblyInfo.cs
+/home/killianfrappart/Dev/CSharp/csharp-oop-4/obj/Debug/netcoreapp3.1/csharp-oop-4.csproj.CoreCompileInputs.cache
+/home/killianfrappart/Dev/CSharp/csharp-oop-4/obj/Debug/netcoreapp3.1/csharp-oop-4.dll
+/home/killianfrappart/Dev/CSharp/csharp-oop-4/obj/Debug/netcoreapp3.1/csharp-oop-4.pdb
+/home/killianfrappart/Dev/CSharp/csharp-oop-4/obj/Debug/netcoreapp3.1/csharp-oop-4.genruntimeconfig.cache
